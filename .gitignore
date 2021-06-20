@@ -1,0 +1,8 @@
+.sass-cache/
+TODO.txt
+_site/
+.jekyll-metadata
+.DS_Store
+cnzz_analytics.html
+google_analytics.html
+papers.html

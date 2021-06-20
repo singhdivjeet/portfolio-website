@@ -1,0 +1,31 @@
+I"Å<h2 id="want-to-play">Want to play?</h2>
+
+<ul>
+  <li>Calculator
+    <ul>
+      <li>Link: <a href="https://jaskaran.netlify.app//games/calculator.html">Click me!</a></li>
+      <li>Command: Run <code>calc</code> in Start-&gt;Run</li>
+    </ul>
+  </li>
+  <li>Minesweeper
+    <ul>
+      <li>Link: <a href="https://jaskaran.netlify.app//games/minesweeper.html">Click me!</a></li>
+      <li>Command: Run <code>winmine</code> in Start-&gt;Run</li>
+    </ul>
+  </li>
+  <li>Pac-Man
+    <ul>
+      <li>Link: <a href="https://jaskaran.netlify.app//games/pacman.html">Click me!</a></li>
+      <li>Command: Run <code>pacman</code> in Start-&gt;Run</li>
+    </ul>
+  </li>
+  <li>Tetris
+    <ul>
+      <li>Link: <a href="https://jaskaran.netlify.app//games/tetris.html">Click me!</a></li>
+      <li>Command: Run <code>tetris</code> in Start-&gt;Run</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="have-fun">Have fun!</h2>
+:ET
