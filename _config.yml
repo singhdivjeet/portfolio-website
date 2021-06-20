@@ -40,14 +40,18 @@ collections:
     output: true
     name: Publications
     pos: 3
+  projects:
+    output: true
+    name: Projects
+    pos: 4
   cv:
     output: true
     name: CV
-    pos: 4
+    pos: 5
   games:
     output: true
     name: Games
-    pos: 5
+    pos: 6
   about:
     output: true
     name: About

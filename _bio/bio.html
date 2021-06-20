@@ -7,21 +7,28 @@ permalink: /bio/index.html
 <style type="text/css">
 .bio_top {
     width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 2fr));
+    justify-items: center;
+    
 }
 .bio_image {
     width: 200px;
-    float: left;
+    padding: 1rem;
+    /* float: left; */
+    border-radius: 50%;
 }
 .bio_name {
     width: calc(100% - 200px);
     min-width: 200px;
-    float: left;
+    /* float: left; */
     text-align:center;
 }
 .bio_statement {
     clear: both;
-    padding-top: 20px;
-    width: 100%;
+    
+    padding: 1rem;
+    width: 95%;
     font-size: 120%;
     font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
 }
