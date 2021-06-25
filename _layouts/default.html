@@ -57,6 +57,21 @@
 		<script>
 			hljs.initHighlightingOnLoad();
 		</script>
+
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script
+			async
+			src="https://www.googletagmanager.com/gtag/js?id=G-YRE1K4K1MD"
+		></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag() {
+				dataLayer.push(arguments);
+			}
+			gtag("js", new Date());
+
+			gtag("config", "G-YRE1K4K1MD");
+		</script>
 	</head>
 	<body>
 		{% assign array = page.id | split: "/"%} {% assign current_collection =
