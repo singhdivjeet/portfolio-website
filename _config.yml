@@ -48,10 +48,10 @@ collections:
     output: true
     name: CV
     pos: 5
-  blogs:
-    output: true
-    name: Blogs
-    pos: 6
+ # blogs:
+  #  output: true
+  # name: Blogs
+  # pos: 6
   # creatives:
   #   output: true
   #   name: Creatives
@@ -59,7 +59,7 @@ collections:
   games:
     output: true
     name: Games
-    pos: 8
+    pos: 7
   # about:
   #   output: true
   #   name: About
